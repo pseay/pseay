@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Preston
 #### I am a Java programmer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / Browser Extension
 
