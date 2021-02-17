@@ -10,6 +10,7 @@ Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / B
 - 😄 Pronouns: He / Him / His 
 - ⚡ Fun fact: Any glass that is half empty is half FULL! 
 
+[Java Badge](https://www.youracclaim.com/badges/adaaac8f-7180-4726-96ac-930be3a3584e/public_url)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pseay)  
 
