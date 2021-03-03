@@ -4,7 +4,7 @@
 Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / Browser Extension
 
 - 🔭 I’m currently working on a Java Hierarchy Components project 
-- 🌱 I’m currently learning AI, PHP, SQL, & C++ 
+- 🌱 I’m currently learning AI, PHP, SQL, C++, & Rust
 - 👯 I’m looking to collaborate on projects for social good or ones with AI 
 - 📫 How to reach me: preston.seay@outlook.com 
 - 😄 Pronouns: He / Him / His 
