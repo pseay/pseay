@@ -8,7 +8,7 @@ Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / B
 - 👯 I’m looking to collaborate on projects for social good or ones with AI 
 - 📫 How to reach me: preston.seay@outlook.com 
 - 😄 Pronouns: He / Him / His 
-- ⚡ Fun fact: Any glass that is half empty is half FULL! 
+- ⚡ Fun fact: Any glass that is has half full or half empty is just twice as large as necessary!
 
 [Java Badge](https://www.youracclaim.com/badges/adaaac8f-7180-4726-96ac-930be3a3584e/public_url)
 
