@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Preston
 #### I am a Java programmer
 
-Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / Browser Extension
+Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / Browser Extension / C++ / RUST
 
 - 🔭 I’m currently working on a Java Hierarchy Components project 
-- 🌱 I’m currently learning AI, PHP, SQL, C++, & Rust
+- 🌱 I’m currently learning AI, PHP, & SQL
 - 👯 I’m looking to collaborate on projects for social good or ones with AI 
 - 📫 How to reach me: preston.seay@outlook.com 
 - 😄 Pronouns: He / Him / His 
