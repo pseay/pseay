@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Preston
 #### I am a Java programmer
 
-Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / SELENIUM (Web Scraping) / Browser Extension / C++ / RUST
+Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / Web Scraping / Browser Extensions / C++ / RUST
 
 - 🔭 I’m currently working on a Java Hierarchy Components project 
 - 🌱 I’m currently learning AI, PHP, & SQL
