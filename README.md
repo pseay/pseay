@@ -3,7 +3,7 @@
 
 Skills: JAVA / C# / HTML / CSS / SASS / JS / REACT / Web Scraping / Browser Extensions / C++ / RUST
 
-- 🔭 I’m currently working on a Java Hierarchy Components project 
+- 🔭 I’m currently working on a Rust Webserver
 - 🌱 I’m currently learning AI, PHP, & SQL
 - 👯 I’m looking to collaborate on projects for social good or ones with AI 
 - 📫 How to reach me: preston.seay@outlook.com 
