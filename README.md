@@ -11,9 +11,9 @@ About me:
 - 😄 Pronouns: He / Him / His
 
 Websites I've worked on:
-- [ESEE Nonprofit Website](https://www.esee-programs.org)
-- [Robotics Form 2023](https://team2485.github.io)
-- [Robotics Visualization 2024](https://team2485.vercel.app/match-view?team1=359&team2=9084&team3=4270&team4=2485&team5=3647&team6=3128&go=go&match=)
+- [ESEE Nonprofit Website](https://www.esee-programs.org) (Made with Svelte)
+- [Robotics Form 2023](https://team2485.github.io) (Made with HTML, CSS, and JS)
+- [Robotics Visualization 2024](https://team2485.vercel.app/match-view?team1=359&team2=9084&team3=4270&team4=2485&team5=3647&team6=3128&go=go&match=) (Made with Next.js)
 
 Certification: I'm an Oracle Certified Associate!
 [Java Badge](https://www.youracclaim.com/badges/adaaac8f-7180-4726-96ac-930be3a3584e/public_url)
